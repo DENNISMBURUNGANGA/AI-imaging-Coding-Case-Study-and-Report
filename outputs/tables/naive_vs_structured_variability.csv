@@ -1,0 +1,3 @@
+,mean_chars,char_sd,mean_pairwise_jaccard,identical_pairs
+naive,752.0,30.8,0.307,0.0
+structured,195.0,0.0,0.532,0.0

@@ -1,0 +1,5 @@
+image,corruption,d_mean,d_std,d_bimodality,mask_iou_vs_clean,n_clean,n_corrupt,d_mean_area,d_coverage_pct,quality_flag_corrupted
+test_000_blur,blur,-0.53,-11.33,-0.004,0.484,8,7,261.6,2.5,ok
+test_000_lowcontrast,lowcontrast,96.21,-21.9,-0.001,0.023,8,1,65341.0,97.66,ok
+test_004_blur,blur,-0.73,-30.96,-0.227,0.485,43,9,2906.1,22.81,ok
+test_004_lowcontrast,lowcontrast,65.81,-65.18,-0.0,0.216,43,1,65203.5,78.38,ok

@@ -1,0 +1,6 @@
+property,vlm_task1,numbers_first_task2
+Sees the image,yes,no
+Output verifiable vs truth,no — no ground truth for modality/tissue,yes — density_class scored at 40%
+Numeric fields,none,"from regionprops, not the model"
+Stable across identical calls,0 of 4 fields varied,inputs deterministic; prose still varies
+Schema compliance,True,100%

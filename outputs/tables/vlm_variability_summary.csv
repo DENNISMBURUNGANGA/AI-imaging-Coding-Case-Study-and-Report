@@ -1,0 +1,5 @@
+field,n_distinct,modal_value,agreement
+modality,1,microscopy,1.0
+tissue_type,1,uncertain,1.0
+image_quality,1,good,1.0
+n_notable_features,1,range 4-4,1.0

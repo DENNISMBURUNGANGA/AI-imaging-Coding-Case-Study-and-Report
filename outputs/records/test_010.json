@@ -1,0 +1,16 @@
+{
+  "image_id": "test_010",
+  "segmenter": "unet",
+  "n_objects": 36,
+  "mean_area": 364.47,
+  "coverage_pct": 20.02,
+  "mean_eccentricity": 0.737,
+  "mean_solidity": 0.91,
+  "density_class": "sparse",
+  "shape_regularity": "regular",
+  "quality_flag": "ok",
+  "narrative": "The image contains 36 distinct objects with a mean area of 364.47 px, a median area of 217.0 px, and a standard deviation of 421.78 px. The combined object area covers 20.02 percent of the 256 by 256 pixel field. The objects have a mean eccentricity of 0.737 and a mean solidity of 0.91. The mean object intensity is 185.88 on a 0 to 255 scale.",
+  "llm_n_objects": 36,
+  "n_objects_matches_computed": true,
+  "parse_status": "clean"
+}

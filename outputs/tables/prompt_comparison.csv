@@ -1,0 +1,8 @@
+prompt,parse_status,schema_valid,missing,chars,elapsed_s,raw
+naive,unparseable,False,"modality,tissue_type,notable_features,image_quality",665,95.85,"This image appears to be a fluorescent microscopy image, likely used in a biological or medical context. The blue spots are likely fluorescently labeled cells or cellular structures. The pattern and distribution of these spots could be indicative of a specific biological process or experiment, such as the localization of a particular protein or the distribution of cells in a tissue sample. The dark background suggests that the image was taken under low-light conditions to enhance the visibility of the fluorescent signals. Without additional context, it's difficult to determine the exact nature of the experiment or the biological significance of the pattern."
+structured,clean,True,,186,21.19,"{
+  ""modality"": ""microscopy"",
+  ""tissue_type"": ""uncertain"",
+  ""notable_features"": [""blue dots"", ""dark background"", ""random distribution"", ""blurry edges""],
+  ""image_quality"": ""moderate""
+}"

@@ -1,0 +1,7 @@
+temperature,run,parse_status,modality,tissue_type,image_quality,n_features
+0.0,1,clean,microscopy,uncertain,moderate,4
+0.0,2,clean,microscopy,uncertain,good,4
+0.0,3,clean,microscopy,uncertain,good,4
+0.8,1,clean,microscopy,uncertain,good,4
+0.8,2,clean,microscopy,uncertain,good,4
+0.8,3,clean,microscopy,uncertain,good,4

@@ -1,0 +1,6 @@
+run,parse_status,schema_valid,modality,tissue_type,image_quality,n_features,notable_features,elapsed_s
+1,clean,True,microscopy,uncertain,good,4,"[""blue dots"", ""dark background"", ""random distribution"", ""varied sizes""]",10.1
+2,clean,True,microscopy,uncertain,good,4,"[""blue dots"", ""dark background"", ""random distribution"", ""varied sizes""]",9.78
+3,clean,True,microscopy,uncertain,good,4,"[""blue dots"", ""dark background"", ""random distribution"", ""varied sizes""]",10.12
+4,clean,True,microscopy,uncertain,good,4,"[""blue dots"", ""dark background"", ""random distribution"", ""varied sizes""]",10.3
+5,clean,True,microscopy,uncertain,good,4,"[""blue dots"", ""dark background"", ""random distribution"", ""varied sizes""]",10.09
